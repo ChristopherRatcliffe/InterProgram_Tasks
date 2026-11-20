@@ -13,4 +13,4 @@ Just a guy, Making a living in The World. Spending my Time and Days as a Human B
 
 ### Midterm Projects
 - [Midterm_Task_01](https://github.com/ChristopherRatcliffe/InterProgram_Tasks/blob/main/MidTermTask1/LabTask.java)
-- [Midterm_Task_02]()
+- [Midterm_Task_02](https://github.com/ChristopherRatcliffe/InterProgram_Tasks/blob/main/MidTermTask1/StudentGradeSystem.java)
